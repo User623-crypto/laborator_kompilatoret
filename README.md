@@ -2,11 +2,11 @@
 
 #Rregullat bazë të jflex
 
-## Inicializon librarite
+Inicializon librarite <br/>
 /*User code   --> Packages to import java.util.* */ <br/>
 %% <br/>
 
-## Incializon  perkufizimet regular expressio etj
+Incializon  perkufizimet regular expressio etj<br/>
 /*Options and declerations --> Put the java code and macro definitions */<br/>
 /**Macro definitions<br/>
 int yychar -> the number of characters processed since the start of the input<br/>
@@ -29,11 +29,11 @@ void  yybegin (int lexicalState) -> sets the current state<br/>
 <br/>
 Formati i kodit:<br/>
 %{<br/>
-    <Code><br/>
+    Code<br/>
 %}<br/>
 Ndersa<br/>
 %init{<br/>
-    <Code> //inicializon variablat me nje vlere Si pune konstruktori<br/>
+    Code //inicializon variablat me nje vlere Si pune konstruktori<br/>
 %init<br/>
 */<br/>
 <br/>
