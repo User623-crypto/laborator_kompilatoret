@@ -6,7 +6,7 @@ Inicializon librarite <br/>
 /*User code   --> Packages to import java.util.* */ <br/>
 %% <br/>
 
-Incializon  perkufizimet regular expressio etj<br/>
+Incializon  perkufizimet (regex etj)<br/>
 /*Options and declerations --> Put the java code and macro definitions */<br/>
 /**Macro definitions<br/>
 int yychar -> the number of characters processed since the start of the input<br/>
