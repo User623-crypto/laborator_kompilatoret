@@ -1,0 +1,6 @@
+http://www.fti.edu.al/index/file.html
+ftp://10.9.9.71/prova.zip
+http://dii.fti.com/%7Eutente/index.html#rif33
+nntp://news.fti.ch:8181/dhena/
+https://192.168.1.0
+http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
