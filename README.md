@@ -44,7 +44,7 @@ example: Whitespace = [\t\n]+   -> we can use {Whitespace}<br/>
 Letter = [a-zA-Z]<br/>
 */<br/>
 %%<br/>
-## Skanimi leksik Regex pastaj Action {[0-9]} {System.out.println("Dgit")}<br/>
+Skanimi leksik Regex pastaj Action {[0-9]} {System.out.println("Dgit")}<br/>
 /*Lexical Rules --> Rules and actions associated witht them*/<br/>
 <br/>
 /**Kompilimi<br/>
