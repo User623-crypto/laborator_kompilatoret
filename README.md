@@ -2,9 +2,11 @@
 
 #Rregullat bazë të jflex
 
-/*User code   --> Packages to import java.util.* */ \n
-%% \n
+## Inicializon librarite
+/*User code   --> Packages to import java.util.* */ 
+%% 
 
+## Incializon  perkufizimet regular expressio etj
 /*Options and declerations --> Put the java code and macro definitions */
 /**Macro definitions
 int yychar -> the number of characters processed since the start of the input
@@ -42,7 +44,7 @@ example: Whitespace = [\t\n]+   -> we can use {Whitespace}
 Letter = [a-zA-Z]
 */
 %%
-
+## Skanimi leksik Regex pastaj Action {[0-9]} {System.out.println("Dgit")}
 /*Lexical Rules --> Rules and actions associated witht them*/
 
 /**Kompilimi
