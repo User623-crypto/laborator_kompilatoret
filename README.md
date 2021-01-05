@@ -2,8 +2,8 @@
 
 #Rregullat bazë të jflex
 
-/*User code   --> Packages to import java.util.* */
-%%
+/*User code   --> Packages to import java.util.* */ \n
+%% \n
 
 /*Options and declerations --> Put the java code and macro definitions */
 /**Macro definitions
