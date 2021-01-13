@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Shembull</title>
+</head>
+<body>
+<!--.... ky eshte nje koment -->
+<h1>Gjuhet dhe Kompilatoret</h1>
+<h2>Laboratore</h2>
+<p> Do te zhvillohen cdo te 
+<b>merkure</b>
+ <br/>
+ <h2>Laboratore 1</h2>
+ <table border="2">
+ <tr>
+ <td>Kerkesat</td>
+ </tr>
+ </table>
+ <a href="laborator.html"><img src="/img/lab.gif" alt="lab">
+ </a><h2>Laborator 2</h2>
+ <table border="1">
+ <tr>
+ <td>Kerkesat</td></tr>
+  </table>
+<!--Nje liste e parenditur -->
+<ul>
+<li><a href="lab1.html">Lab1</a></li>
+<li><a href="lab2.html">lab 2</a></li>
+</ul>
+<img src="/img/lab.gif" height="10" width="10" alt="lab">
+<br/><br/>
+<hr><!--fund -->
+</body>
+</html>
